@@ -1,6 +1,6 @@
 # find-me-music
 
-A shell script that randomly chooses one of the most popular albums on [Last.fm](https://www.last.fm) to listen to — perfect for discovering new music when you never know what to play.
+A shell script that randomly chooses one of the most popular albums on [Last.fm](https://www.last.fm) to listen to. I never listen to much new music so I figured this would help.
 
 
 ## Example Output
