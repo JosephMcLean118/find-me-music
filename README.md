@@ -2,6 +2,10 @@
 
 A shell script that randomly chooses one of the most popular albums on [Last.fm](https://www.last.fm) to listen to — perfect for discovering new music when you never know what to play.
 
+
+## Example Output
+![Example Output](assets/example-output.png)
+
 ## Requirements
 
 - Bash (or compatible shell)  
@@ -26,6 +30,3 @@ chmod +x find-me-music.sh
 ```
 find-me-music
 ```
-
-## Example Output
-![Example Output](assets/example-output.png)
