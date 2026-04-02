@@ -21,7 +21,7 @@ git clone https://github.com/JosephMcLean118/find-me-music.git
 cd find-me-music
 ```
 
-2. **Make the script executable from anywhere**
+2. **Make the script executable**
 ```bash
 chmod +x find-me-music.sh
 ```
