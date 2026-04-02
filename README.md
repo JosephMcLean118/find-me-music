@@ -20,8 +20,6 @@ cd find-me-music
 2. **Make the script executable from anywhere**
 ```bash
 chmod +x find-me-music.sh
-sudo mv find-me-music.sh /usr/local/bin/find-me-music
-sudo chmod a+x /usr/local/bin/find-me-music
 ```
 
 3. **Run the script**
