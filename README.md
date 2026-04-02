@@ -28,5 +28,5 @@ chmod +x find-me-music.sh
 
 3. **Run the script**
 ```
-find-me-music
+./find-me-music
 ```
